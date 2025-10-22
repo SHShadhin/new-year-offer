@@ -54,8 +54,7 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 800px;
-    margin: 0 255px;
+    margin: 0 400px;
 }
 
 .offer h1 {
@@ -79,4 +78,40 @@ header {
 .offer img {
     margin-top: 48px;
     margin-bottom: 120px;
+}
+
+/* party section */
+.party {
+    background-image:linear-gradient(to right,rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url("../images/Vectorrr.png");
+    background-position: center;
+    height: 600px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 16px;
+
+}
+
+.party-content h1 {
+     color: #FFFFFF;
+     font-size: 64px;
+     margin: 126px 94px 24px 126px ;
+}
+.party-content p {
+    color: #FFFFFF;
+     font-size: 18px;
+     margin: 24px 30px 46px 126px;
+}
+
+.party-content h3 {
+     color: #FFFFFF;
+     font-size: 20px;
+     font-weight: bold;
+     margin-left: 158px;
+     margin-bottom: 140px;
+}
+
+.party img {
+    margin:68px 138px 68px;
 }
