@@ -115,3 +115,49 @@ header {
 .party img {
     margin:68px 138px 68px;
 }
+
+
+/* time zone section styles */
+.time-zone {
+   background: linear-gradient(to top, rgba(241, 240, 240, 0.1),rgba(255, 0, 0, 0.1));
+   margin: 120px auto;
+   height: 480px;
+   border-radius: 16px;
+}
+
+.time-zone h3 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    padding: 100px 385px 20px 385px;
+}
+.time-zone h4 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.time-zone h5 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.time-zone span {
+    color: red;
+
+}
+.btn-center{
+    text-align: center;
+}
+.btn {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    color:#FFFFFF;
+    text-align: center;
+}
